@@ -23,7 +23,7 @@ vybraného rámca, ak sa nejedná o variable tak vráti nemenenú hodnotu.
 ```get_local_frame()``` vráti lokálny rámec ak nejaký existuje.  
 
 ### XmlControl.py
-Prejde cez celú XML reprezentáciu kódu načítaného zo vstupného source súboru a skontroluje formát. Pomocou regex výrazov taktiež skontroluje hodnoty 
+Prejde cez celú XML reprezentáciu programu načítaného zo vstupného source súboru a skontroluje formát. Pomocou regex výrazov taktiež skontroluje hodnoty 
 argumentov na základe ich typu.
 
 ### CommandLine.py
